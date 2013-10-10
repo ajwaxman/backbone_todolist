@@ -12,4 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require_tree ../../assets/javascripts/models
+//= require_tree ../../assets/javascripts/collections
+//= require ../../assets/javascripts/views/todos.js
+//= require ../../assets/javascripts/views/app.js
+//= require ../../assets/javascripts/routers/router.js
+//= require ../../assets/javascripts/app.js
 //= require_tree .
