@@ -57,7 +57,7 @@
     },
 
     // Toggle the 'completed' state of the model
-    toggleCompleted: function() {
+    togglecompleted: function() {
       this.model.toggle();
     },
 
